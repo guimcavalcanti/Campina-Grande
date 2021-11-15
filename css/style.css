@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Strait&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(../img/background.jpg);
+}
+
+body {
+    font-family: 'Strait', sans-serif;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 25px;
+}
+
+#titulo_02 {
+    font-size: 80px;
+    padding: 10px 0 0;
+}
+
+#titulo_03 {
+    font-size: 25px;
+    padding: 20px 0 20px;
+}
+
+#introducao {
+    padding: 0 0 40px;
+    width: 69%;
+    margin: 0 auto;
+}
+
+.destaque {
+    background-color: #ffffff98;
+}
+
+#Video-Frame {
+    padding: 0 0 20px;
+}
+
+ul {
+    width: 68%;
+    margin: 0 auto;
+    color: black;
+}
+
+li {
+    padding: 0 0 5px;
+    list-style-type: none;
+}
+
+#Curiosidades {
+    width: 68%;
+    margin: 0 auto;
+    color: black;
+    padding: 20px 0 20px;
+    background-color: #ffffff98;
+}
+
+#Lista-Curiosidades {
+    padding: 10px 0 0;
+    background-color: #ffffff98;
+}
+
+.botao {
+    padding: 50px 10px 0;
+    height: 120px;
+}
